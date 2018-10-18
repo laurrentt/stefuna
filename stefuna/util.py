@@ -2,7 +2,7 @@ import logging
 
 
 SFN_LIMITS = {
-    'CAUSE_SIZE': 16
+    'CAUSE_SIZE': 32769
 }
 
 ELLIPSIS = '...'
